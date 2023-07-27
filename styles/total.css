@@ -1,0 +1,26 @@
+.total {
+  width: 1140px;
+  height: 425px;
+  background-color: #F1F1F1;
+  border-radius: 10px;
+  padding-left: 40px;
+  margin-top: 40px;
+  padding-top: 10px;
+}
+
+.total__title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 52.8px;
+}
+
+.total__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 10px;
+}
+
+.refresh {
+  margin-top: 35px;
+}

@@ -1,0 +1,16 @@
+.head__section {
+  width: 1080px;
+  height: 300px;
+}
+
+.head__title {
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 72px;
+}
+
+.head__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}

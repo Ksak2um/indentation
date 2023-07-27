@@ -1,0 +1,36 @@
+.element {
+  width: 1080px;
+}
+
+.element__title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43.2px;
+}
+
+.element__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.element__img {
+  margin-left: 240px;
+}
+
+.element__img1 {
+  margin-left: 240px;
+  margin-bottom: 20px;
+}
+
+.element__img2 {
+  margin-left: 140px;
+}
+
+.element__img3 {
+  margin-left: 380px;
+}
+
+.element__img4 {
+  margin-left: 290px;
+}

@@ -1,0 +1,50 @@
+.dom {
+  width: 1081px;
+  height: 2765px;
+}
+
+.dom__title {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 43.2px;
+}
+
+.dom__text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  font-style: italic;
+}
+
+.dom__img {
+  margin-left: 200px;
+}
+
+.dom__figure {
+  margin-left: 0;
+}
+
+.dom__figcaption {
+  margin-top: 15px;
+}
+
+.dom__figure2 {
+  margin-left: 0;
+  border: 1px solid #000000
+}
+
+.dom__figcaption2 {
+  margin: 20px;
+  font-weight: 400px;
+  font-size: 20px;
+  line-height: 24px;
+  font-style: italic;
+}
+
+.dom__img2 {
+  margin-left: 60px;
+}
+
+.dom__img3 {
+  margin-left: 30px;
+}
